@@ -1,0 +1,6 @@
+
+.ipynb_checkpoints/
+*.ipynb.meta
+*.ipynb~ 
+*.ipynb_output/
+*.ipynb_logs/
